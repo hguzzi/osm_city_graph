@@ -8,6 +8,8 @@ This package constructs the **macro-level graph** for a hierarchical epidemic mo
 - edge coupling is a transformed interaction strength for inter-city diffusion;
 - outputs include GraphML, edge tables, distance matrices, a coupling matrix, and a row-stochastic transition matrix.
 
+  2026 Pietro Hiram Guzzi
+
 ## 1. Installation
 
 Python 3.10 or newer is recommended.
